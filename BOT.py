@@ -6,7 +6,7 @@ import random
 import requests
 from colorama import init
 
-TOKEN = 'NzMxNDk2ODU5OTQzODI5NTc0.Xwm54g.HLLcR9NpotFjKT8JKCDIpNuEncw'
+TOKEN = 'hide'
 
 client = commands.Bot(command_prefix='!')
 client.remove_command('help')
